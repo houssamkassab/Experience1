@@ -23,6 +23,7 @@ namespace Experience1
             }
 
             Console.WriteLine(ibra);
+            Console.WriteLine(ibra);
             Console.ReadKey();
         }
     }
